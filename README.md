@@ -76,6 +76,6 @@ Additionally, a bar chart is generated programmatically to visualize vendor cont
 
 
 
-This project is a conceptual simulation due to limited access to a live SAP system. However, all process flows, transaction codes, and business logic are aligned with standard SAP MM practices.
+*This project is a conceptual simulation due to limited access to a live SAP system. However, all process flows, transaction codes, and business logic are aligned with standard SAP MM practices.*
 
 ---
